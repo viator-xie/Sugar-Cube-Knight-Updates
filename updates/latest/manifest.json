@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.6",
+  "published_at": "2026-09-20T14:48:27.2175989Z",
+  "notes": "Sugar Cube Knight 0.7.6 content update",
+  "package": {
+    "file": "content-v0.7.6.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@d18381db03460c2fbe56785e78c8960cea9c5636/updates/v0.7.6/content-v0.7.6.pck",
+    "size": 5013480,
+    "sha256": "67263f8ab82493374532a25790f1773672f01a9e891472a0eebf24420b41ec4f"
+  }
+}
