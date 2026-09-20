@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.7.8",
-  "published_at": "2026-09-20T15:02:50.529629Z",
-  "notes": "Sugar Cube Knight 0.7.8 content update",
+  "version": "0.7.9",
+  "published_at": "2026-09-20T15:15:23.2783896Z",
+  "notes": "Sugar Cube Knight 0.7.9 content update",
   "package": {
-    "file": "content-v0.7.8.pck",
-    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@4d0dc575f30eaccfb4c2d4dde42d4fc22fe53c11/updates/v0.7.8/content-v0.7.8.pck",
-    "size": 5013512,
-    "sha256": "6f4de1e6f2ea3ff1f862e51f3a7afff0cdc46e7b7f633d0ff1ad1556244b3514"
+    "file": "content-v0.7.9.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@7ff99ad97aa0c17ccde90b2adfbeb096764ab15f/updates/v0.7.9/content-v0.7.9.pck",
+    "size": 5016104,
+    "sha256": "e8c1a3bfac69460400adc7594bdb36397285347a3623a9e829668bab7197e569"
   }
 }
