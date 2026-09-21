@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.27",
+  "published_at": "2026-09-21T10:10:15.2000879Z",
+  "notes": "Continuous snow-biome coverage: every exposed outdoor terrain surface across all depth layers now receives an opaque white snow cap.",
+  "package": {
+    "file": "content-v0.7.27.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@3da086296b08ff7d44b10fd3e2231d547c276358/updates/v0.7.27/content-v0.7.27.pck",
+    "size": 5042792,
+    "sha256": "4716d84fea824600807890c9b348c9b17b38f69e3b718232ecb807bad89ec16f"
+  }
+}
