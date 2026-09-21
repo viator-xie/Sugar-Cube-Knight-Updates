@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.7.10",
-  "published_at": "2026-09-20T15:29:19.1965359Z",
-  "notes": "Sugar Cube Knight 0.7.10 content update",
+  "version": "0.7.11",
+  "published_at": "2026-09-21T03:16:54.7097934Z",
+  "notes": "Exterior-only bevels: underground terrain stays square.",
   "package": {
-    "file": "content-v0.7.10.pck",
-    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@3a1bd80b6f1f33d2f7beb0954a267274b3f25e8d/updates/v0.7.10/content-v0.7.10.pck",
-    "size": 5016408,
-    "sha256": "52ebea0f5472214dbca15cb478275846f3c13c2565b3c633588c4cec6bff4870"
+    "file": "content-v0.7.11.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@44c3c5836484743b78705247001ad777fbd56b30/updates/v0.7.11/content-v0.7.11.pck",
+    "size": 5016568,
+    "sha256": "983ab6b52feab5d02ddff7144660794052cdbc0ffc0655b0aa368eff61e69885"
   }
 }
