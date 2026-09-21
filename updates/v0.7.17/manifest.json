@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.17",
+  "published_at": "2026-09-21T04:10:40.9712322Z",
+  "notes": "Generate streamed procedural mountain bodies on all background layers.",
+  "package": {
+    "file": "content-v0.7.17.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@dc64c80d358da5a5ef540d5382eae4db595b78b9/updates/v0.7.17/content-v0.7.17.pck",
+    "size": 5019480,
+    "sha256": "e4bf300f6a92b7646c712243a66ffdde3d449fa90c722869a52a873a816ab7f3"
+  }
+}
