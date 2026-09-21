@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.7.19",
-  "published_at": "2026-09-21T04:34:44.8753805Z",
-  "notes": "Deterministic reachable cave-platform chains and taller procedural background mountains.",
+  "version": "0.7.20",
+  "published_at": "2026-09-21T04:48:10.4423058Z",
+  "notes": "Restore complete background caves, add camera preload and retention buffer rings, and persist generator versions.",
   "package": {
-    "file": "content-v0.7.19.pck",
-    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@7c8484a753408335afddb4c93a8c9c3315e0e9cd/updates/v0.7.19/content-v0.7.19.pck",
-    "size": 5022104,
-    "sha256": "ea9dc9288fa73fa38c531c35d278f2ab12700ad9318101cf9c68c3024935b75a"
+    "file": "content-v0.7.20.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@8ac0614388e859f79663c16c0a1f72e516f6c820/updates/v0.7.20/content-v0.7.20.pck",
+    "size": 5022184,
+    "sha256": "a3ae33d74723a922c25deb3f3c56c6e51cd31d605bef517086bfda480270d250"
   }
 }
