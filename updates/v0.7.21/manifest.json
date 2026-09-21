@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.21",
+  "published_at": "2026-09-21T04:55:38.1641318Z",
+  "notes": "Greedy-merged visual terrain meshes and useful route-only traversal platforms.",
+  "package": {
+    "file": "content-v0.7.21.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@17d22e5bafe174ce164105943ba7ff09676b726a/updates/v0.7.21/content-v0.7.21.pck",
+    "size": 5024120,
+    "sha256": "e8a89197521bae3f35f2817c6999fca9a779df4572ae42b2d76849c4fe1428bc"
+  }
+}
