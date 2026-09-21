@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.7.25",
-  "published_at": "2026-09-21T09:33:06.6454857Z",
-  "notes": "Cinematic depth refinement: removes long procedural shadows, restores smoother depth blur, improves off-focus resolution, and keeps the collision layer sharp.",
+  "version": "0.7.26",
+  "published_at": "2026-09-21T10:05:20.5662864Z",
+  "notes": "World-anchored weather: snow and fog now remain spatially stable while the player and camera move.",
   "package": {
-    "file": "content-v0.7.25.pck",
-    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@26295790174367dc748445e634f0903610b32167/updates/v0.7.25/content-v0.7.25.pck",
-    "size": 5041304,
-    "sha256": "7167180ad824d9cc9a513465915d228ff9d71bd6ffd1bc7a4ba2c23fc344d031"
+    "file": "content-v0.7.26.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@1084d9d2389d84094fbdf5e008be7219507ae020/updates/v0.7.26/content-v0.7.26.pck",
+    "size": 5041800,
+    "sha256": "2418fe7d8c162d22840efef8aa13b5c9848a88e8be96809922febc37fb54f54c"
   }
 }
