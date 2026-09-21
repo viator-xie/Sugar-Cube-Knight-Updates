@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.18",
+  "published_at": "2026-09-21T04:22:02.0135813Z",
+  "notes": "Optimized terrain streaming, predictive pre-generation, hidden background culling, and scaled depth rendering.",
+  "package": {
+    "file": "content-v0.7.18.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@67a64224b541ce8d351280fbff241e78e652a8f2/updates/v0.7.18/content-v0.7.18.pck",
+    "size": 5021304,
+    "sha256": "0c2d12622f011ff1f194bbcc04799eada5595a1164192f578f3127cca78e108e"
+  }
+}
