@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.19",
+  "published_at": "2026-09-21T04:34:44.8753805Z",
+  "notes": "Deterministic reachable cave-platform chains and taller procedural background mountains.",
+  "package": {
+    "file": "content-v0.7.19.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@7c8484a753408335afddb4c93a8c9c3315e0e9cd/updates/v0.7.19/content-v0.7.19.pck",
+    "size": 5022104,
+    "sha256": "ea9dc9288fa73fa38c531c35d278f2ab12700ad9318101cf9c68c3024935b75a"
+  }
+}
