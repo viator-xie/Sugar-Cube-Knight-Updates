@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.7.24",
-  "published_at": "2026-09-21T09:21:44.4141842Z",
-  "notes": "Critical terrain-generation repair for v0.7.23 while preserving dynamic weather and daylight.",
+  "version": "0.7.25",
+  "published_at": "2026-09-21T09:33:06.6454857Z",
+  "notes": "Cinematic depth refinement: removes long procedural shadows, restores smoother depth blur, improves off-focus resolution, and keeps the collision layer sharp.",
   "package": {
-    "file": "content-v0.7.24.pck",
-    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@1b3afabea3cea78c5b8718c96ba981bf0b248152/updates/v0.7.24/content-v0.7.24.pck",
-    "size": 5041608,
-    "sha256": "c0fb97bda381fb51481ab086a889f06dcdaca1d3bf7a447bf30de14806c758fd"
+    "file": "content-v0.7.25.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@26295790174367dc748445e634f0903610b32167/updates/v0.7.25/content-v0.7.25.pck",
+    "size": 5041304,
+    "sha256": "7167180ad824d9cc9a513465915d228ff9d71bd6ffd1bc7a4ba2c23fc344d031"
   }
 }
