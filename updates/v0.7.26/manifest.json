@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.26",
+  "published_at": "2026-09-21T10:05:20.5662864Z",
+  "notes": "World-anchored weather: snow and fog now remain spatially stable while the player and camera move.",
+  "package": {
+    "file": "content-v0.7.26.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@1084d9d2389d84094fbdf5e008be7219507ae020/updates/v0.7.26/content-v0.7.26.pck",
+    "size": 5041800,
+    "sha256": "2418fe7d8c162d22840efef8aa13b5c9848a88e8be96809922febc37fb54f54c"
+  }
+}
