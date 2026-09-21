@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.20",
+  "published_at": "2026-09-21T04:48:10.4423058Z",
+  "notes": "Restore complete background caves, add camera preload and retention buffer rings, and persist generator versions.",
+  "package": {
+    "file": "content-v0.7.20.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@8ac0614388e859f79663c16c0a1f72e516f6c820/updates/v0.7.20/content-v0.7.20.pck",
+    "size": 5022184,
+    "sha256": "a3ae33d74723a922c25deb3f3c56c6e51cd31d605bef517086bfda480270d250"
+  }
+}
