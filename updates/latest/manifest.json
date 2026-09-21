@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.7.15",
-  "published_at": "2026-09-21T03:59:56.6011517Z",
-  "notes": "Remove one exposed edge ring from the outermost foreground layer.",
+  "version": "0.7.16",
+  "published_at": "2026-09-21T04:05:28.9290705Z",
+  "notes": "Remove one exposed edge ring from both the first and outermost foreground layers.",
   "package": {
-    "file": "content-v0.7.15.pck",
-    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@ca74efabd774df772843c4998fb748a3c9bc2a62/updates/v0.7.15/content-v0.7.15.pck",
-    "size": 5018232,
-    "sha256": "434f586104622885e6ef532812fe53971ad4dde0481cfb6b4b3a0fe8c280e5b3"
+    "file": "content-v0.7.16.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@31566456e7d77ef3c53e7c91cf01502123387d68/updates/v0.7.16/content-v0.7.16.pck",
+    "size": 5018312,
+    "sha256": "47531c8ee746b0211bf5ba47c2795ce492f3bf392e05add450ad48ddad140be8"
   }
 }
