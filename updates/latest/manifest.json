@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.7.22",
-  "published_at": "2026-09-21T05:12:53.9060345Z",
-  "notes": "Major frame-time reduction: three depth bands, cheaper blur, lower off-focus resolution, and throttled streaming.",
+  "version": "0.7.23",
+  "published_at": "2026-09-21T05:57:24.3473634Z",
+  "notes": "Dynamic weather and daylight: snow, wind, fog, time-of-day lighting, and screen-space sun shadows integrated with the optimized pseudo-3D world.",
   "package": {
-    "file": "content-v0.7.22.pck",
-    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@6c40588a51b2ceb395035c80df99d43a17aa8c66/updates/v0.7.22/content-v0.7.22.pck",
-    "size": 5024216,
-    "sha256": "3200b74d641fd8ea4dde9bf4d8c1ab2516ea7defc122d55eb31fd2b25507a55f"
+    "file": "content-v0.7.23.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@6138bc4c70398610511693c84ee1f209c17e8527/updates/v0.7.23/content-v0.7.23.pck",
+    "size": 5041656,
+    "sha256": "6279c36dfb1708d001c91503dce583cb26b06f1b8928e521dfa9bb8827319e17"
   }
 }
