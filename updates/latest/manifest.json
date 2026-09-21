@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.7.16",
-  "published_at": "2026-09-21T04:05:28.9290705Z",
-  "notes": "Remove one exposed edge ring from both the first and outermost foreground layers.",
+  "version": "0.7.17",
+  "published_at": "2026-09-21T04:10:40.9712322Z",
+  "notes": "Generate streamed procedural mountain bodies on all background layers.",
   "package": {
-    "file": "content-v0.7.16.pck",
-    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@31566456e7d77ef3c53e7c91cf01502123387d68/updates/v0.7.16/content-v0.7.16.pck",
-    "size": 5018312,
-    "sha256": "47531c8ee746b0211bf5ba47c2795ce492f3bf392e05add450ad48ddad140be8"
+    "file": "content-v0.7.17.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@dc64c80d358da5a5ef540d5382eae4db595b78b9/updates/v0.7.17/content-v0.7.17.pck",
+    "size": 5019480,
+    "sha256": "e4bf300f6a92b7646c712243a66ffdde3d449fa90c722869a52a873a816ab7f3"
   }
 }
