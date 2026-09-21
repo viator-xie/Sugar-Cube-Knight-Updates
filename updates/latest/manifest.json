@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "0.7.21",
-  "published_at": "2026-09-21T04:55:38.1641318Z",
-  "notes": "Greedy-merged visual terrain meshes and useful route-only traversal platforms.",
+  "version": "0.7.22",
+  "published_at": "2026-09-21T05:12:53.9060345Z",
+  "notes": "Major frame-time reduction: three depth bands, cheaper blur, lower off-focus resolution, and throttled streaming.",
   "package": {
-    "file": "content-v0.7.21.pck",
-    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@17d22e5bafe174ce164105943ba7ff09676b726a/updates/v0.7.21/content-v0.7.21.pck",
-    "size": 5024120,
-    "sha256": "e8a89197521bae3f35f2817c6999fca9a779df4572ae42b2d76849c4fe1428bc"
+    "file": "content-v0.7.22.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@6c40588a51b2ceb395035c80df99d43a17aa8c66/updates/v0.7.22/content-v0.7.22.pck",
+    "size": 5024216,
+    "sha256": "3200b74d641fd8ea4dde9bf4d8c1ab2516ea7defc122d55eb31fd2b25507a55f"
   }
 }
