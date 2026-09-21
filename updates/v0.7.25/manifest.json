@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.25",
+  "published_at": "2026-09-21T09:33:06.6454857Z",
+  "notes": "Cinematic depth refinement: removes long procedural shadows, restores smoother depth blur, improves off-focus resolution, and keeps the collision layer sharp.",
+  "package": {
+    "file": "content-v0.7.25.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@26295790174367dc748445e634f0903610b32167/updates/v0.7.25/content-v0.7.25.pck",
+    "size": 5041304,
+    "sha256": "7167180ad824d9cc9a513465915d228ff9d71bd6ffd1bc7a4ba2c23fc344d031"
+  }
+}
