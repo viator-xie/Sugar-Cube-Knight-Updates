@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.24",
+  "published_at": "2026-09-21T09:21:44.4141842Z",
+  "notes": "Critical terrain-generation repair for v0.7.23 while preserving dynamic weather and daylight.",
+  "package": {
+    "file": "content-v0.7.24.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@1b3afabea3cea78c5b8718c96ba981bf0b248152/updates/v0.7.24/content-v0.7.24.pck",
+    "size": 5041608,
+    "sha256": "c0fb97bda381fb51481ab086a889f06dcdaca1d3bf7a447bf30de14806c758fd"
+  }
+}
