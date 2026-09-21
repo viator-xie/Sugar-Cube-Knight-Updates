@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.14",
+  "published_at": "2026-09-21T03:50:29.8632573Z",
+  "notes": "Progressive non-uniform terrain sampling and five-band depth blur.",
+  "package": {
+    "file": "content-v0.7.14.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@aecaf2e6e0bf9ebd3e0ce21049a31c9b676932b0/updates/v0.7.14/content-v0.7.14.pck",
+    "size": 5017624,
+    "sha256": "81ae25f837569a72ecf89f338ef6e0b9dce94ebfb870e039c3522152861f59f2"
+  }
+}
