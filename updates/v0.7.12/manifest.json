@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "version": "0.7.12",
+  "published_at": "2026-09-21T03:28:14.9763138Z",
+  "notes": "Terrain generation hotfix; underground terrain stays square.",
+  "package": {
+    "file": "content-v0.7.12.pck",
+    "url": "https://cdn.jsdelivr.net/gh/viator-xie/Sugar-Cube-Knight-Updates@908dfaee00348d2762f5fe4b73a088700995f92c/updates/v0.7.12/content-v0.7.12.pck",
+    "size": 5016776,
+    "sha256": "a568cddac53ebb6cd3ea79d52f400dfbe5dfcdcc48b35e242937806ee81d4e4a"
+  }
+}
